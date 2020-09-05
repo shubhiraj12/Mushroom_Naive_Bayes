@@ -2,7 +2,7 @@
 Mushroom Classification using Naive Bayes Classifier
 # Naive Bayes Classification
 It is a classification technique based on Bayes' Theorem with an assumption of independence among predictors. In simple terms, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.  
-Bayes Theorem - P(Y/X)=(P(X/Y).P(Y))/P(X)
+Bayes Theorem - P(Y/X)=(P(X/Y).P(Y))/P(X)\
 Y-Label
 P(Y=C/X)= posterior probability
 P(X/Y=C) = Likelihood= P(X1/Y=C).P(X2/Y=C)..............p(Xn/y=C)
@@ -20,4 +20,4 @@ predict the label for test data set take argmax(Posterior Probabilities)
 
 # Attachements 
 1. mushroom.csv file
-2.code.ipynb file is code file in python showing above implementation
+2. code.ipynb file is code file in python showing above implementation
